@@ -34,3 +34,7 @@ Java also provides the support of enhanced features like file watchers through t
 
 In summary, Java's File Handler Utility is an inclusive, versatile, and potent collection of tools for file system operations management. With the use of both the older java.io and new java.nio.file classes, developers can create stable, efficient, and secure file-handling mechanisms suited to a broad variety of requirements.
 
+* OUTPUT*
+
+<img width="1539" height="380" alt="Image" src="https://github.com/user-attachments/assets/419c2e39-dea6-4a19-9c35-6edf7d52c135" />
+
