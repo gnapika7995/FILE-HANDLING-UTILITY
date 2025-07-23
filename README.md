@@ -12,9 +12,9 @@
 
 * MENTOR*: NEELA SANTOSH
 
-* A BRIEF DESCRIPTION ABOUT THE FILE
+HERE IS A BRIEF DESCRIPTION ABOUT THE FILE HANDLING UTILITY APPLICATION :
 
-* In Java programming, the File Handler Utility is a set of classes and methods that allow developers to read from, write to, create, delete, and modify files and directories in the file system. Java's native file handling features are contained in the java.io and java.nio.file packages, which provide a rich set of tools to carry out file operations in a robust and platform-independent way.
+In Java programming, the File Handler Utility is a set of classes and methods that allow developers to read from, write to, create, delete, and modify files and directories in the file system. Java's native file handling features are contained in the java.io and java.nio.file packages, which provide a rich set of tools to carry out file operations in a robust and platform-independent way.
 
 At the very center of file management in Java is the File class in the java.io package. The File class abstracts files as well as directories. It provides developers with the ability to determine if a file exists, create a file or directory, delete them, and even extract metadata like size, permissions, and last modification time.
 
