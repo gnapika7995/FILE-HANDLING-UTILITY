@@ -36,5 +36,5 @@ In summary, Java's File Handler Utility is an inclusive, versatile, and potent c
 
 * OUTPUT*
 
-<img width="1539" height="380" alt="Image" src="https://github.com/user-attachments/assets/419c2e39-dea6-4a19-9c35-6edf7d52c135" />
+<img width="653" height="310" alt="Image" src="https://github.com/user-attachments/assets/691a06d2-f4f9-42ad-b94f-d6d3da3a5687" />
 
